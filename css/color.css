@@ -1,0 +1,27 @@
+.text-white {
+    color: #ffffff;
+}
+
+.bg-gray {
+    background-color: rgb(247, 247, 247);
+}
+
+.text-light {
+    color: rgb(177, 50, 77);
+}
+
+.text-pink {
+    color: rgb(119, 34, 44);
+}
+
+.text-dark {
+    color: rgb(110, 24, 41);
+}
+
+.bg-white {
+    background-color: #ffffff;
+}
+
+.bg-pink{
+    background-color: rgb(208, 40, 73)
+}
